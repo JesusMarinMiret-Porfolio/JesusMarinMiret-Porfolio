@@ -11,8 +11,10 @@
 ### 1. **Water Quality Dashboard**
 **Herramientas**: Power BI, Excel  
 **Descripción**: Dashboard interactivo con datos reales de calidad del agua en España. Permite comparar regiones, detectar tendencias y visualizar contaminantes principales.  
-**Lo que aprendí**: Limpieza avanzada con Power Query, Creación de medidas con DAX, diseño de visualizaciones efectivas y narrativa con datos.  
-![image](https://github.com/user-attachments/assets/5597e35a-5084-4929-9a94-57aff476e17e)
+**Lo que aprendí**: Limpieza avanzada con Power Query, Creación de medidas con DAX, diseño de visualizaciones efectivas y narrativa con datos. 
+
+
+![image](https://github.com/user-attachments/assets/67b45176-6290-4352-9f2e-909a1bd20ea5)
 
 ---
 
