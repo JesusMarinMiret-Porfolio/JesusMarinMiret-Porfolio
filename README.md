@@ -8,9 +8,9 @@
 
 ## 📂 Proyectos destacados
 
-### 1. **Water Quality Dashboard**
+### 1. **Campañas Online**
 **Herramientas**: Power BI, Excel  
-**Descripción**: Dashboard interactivo con datos reales de calidad del agua en España. Permite comparar regiones, detectar tendencias y visualizar contaminantes principales.  
+**Descripción**: Dashboard interactivo información detallada sobre ventas minoristas simuladas. Se analiza evolución de ventas, ranking de productos, comparativa entre regiones, etc.  
 **Lo que aprendí**: Limpieza avanzada con Power Query, Creación de medidas con DAX, diseño de visualizaciones efectivas y narrativa con datos. 
 
 
