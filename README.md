@@ -18,11 +18,27 @@
 
 ---
 
-### 2. **Retail Sales Analysis**
-**Herramientas**: Python, pandas, seaborn  
-**Descripción**: Análisis exploratorio de un dataset de ventas minoristas. Se identifican patrones de consumo, productos top, y se proponen mejoras comerciales.  
-**Lo que aprendí**: Análisis EDA completo, visualización clara de KPIs, segmentación de clientes.  
-📁 *[Ver notebook aquí](enlace-a-tu-notebook.ipynb)*
+## 2. Retail Sales Analysis
+
+**🔧 Herramientas:** Python, pandas, seaborn, matplotlib, Jupyter Notebook  
+**📂 Dataset:** Datos simulados de ventas minoristas con más de 9,000 registros.
+
+**🧾 Descripción:**  
+Este proyecto consiste en un análisis exploratorio (EDA) de un dataset de ventas con el objetivo de identificar patrones de consumo, productos más rentables, tendencias temporales y oportunidades comerciales. Se analizaron variables como fecha, región, categoría de producto, cantidad vendida, descuentos, beneficios y más.
+
+**📊 Análisis realizados:**
+- Evolución mensual de ventas y beneficios.
+- Ranking de productos por volumen de ventas.
+- Análisis por región.
+- Evaluación del impacto de los descuentos en el margen de beneficio.
+- 
+![image](https://github.com/user-attachments/assets/6a40bee9-0b69-465e-836d-685d7554038d)
+
+**📈 Lo que aprendí:**
+- Aplicación completa del proceso EDA en un entorno de negocio simulado.
+- Visualización efectiva de KPIs mediante gráficos claros y comparativos.
+- Identificación de insights accionables útiles para marketing o estrategia comercial. 
+📁 *[Ver notebook aquí](https://github.com/JesusMarinMiret-Porfolio/JesusMarinMiret-Porfolio/blob/main/retail-sales-analysis/notebooks/retail_sales_analysis.ipynb)*
 
 ---
 
