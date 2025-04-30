@@ -43,15 +43,7 @@ Este proyecto consiste en un análisis exploratorio (EDA) de un dataset de venta
 
 ---
 
-### 3. **SQL KPIs – Simulated Company**
-**Herramientas**: SQL (PostgreSQL / SQLite)  
-**Descripción**: Consultas SQL sobre base de datos simulada de una empresa: ingresos por mes, productos más vendidos, clientes inactivos.  
-**Lo que aprendí**: Consultas avanzadas (JOIN, GROUP BY, CTEs), generación de reportes con lógica de negocio.  
-📁 *[Ver scripts SQL aquí](enlace-sql)*
-
----
-
-## 4. Microbiome Data Automation
+## 3. Microbiome Data Automation
 **Herramientas**: R, Bash, ggplot2, DADA2, phyloseq, vegan
 
 **Descripción:**
