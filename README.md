@@ -50,13 +50,37 @@ Este proyecto consiste en un análisis exploratorio (EDA) de un dataset de venta
 
 ---
 
-### 4. **Microbiome Data Automation**
-**Herramientas**: R, Bash, ggplot2  
-**Descripción**: Automatización de análisis de datos ómicos usando scripts reproducibles. Visualización de cambios en la microbiota por tratamientos.  
-**Lo que aprendí**: Estandarización de flujos de análisis, automatización, gráficos profesionales.  
-📁 *[Repositorio próximamente]*
+4. Microbiome Data Automation
+Herramientas: R, Bash, ggplot2, DADA2, phyloseq, vegan
+
+Descripción:
+Desarrollé un pipeline automatizado y reproducible para el análisis de datos metagenómicos 16S rRNA, aplicado al estudio de la microbiota intestinal de la cucaracha Blattella germanica sometida a tres pulsos periódicos del antibiótico kanamicina. Este trabajo formó parte de mi tesis doctoral y culminó en la publicación del artículo:
+📄 Adaptability of the gut microbiota of the German cockroach Blattella germanica to a periodic antibiotic treatment
+🔗 DOI: 10.1016/j.micres.2024.127863
+
+Contribuciones clave:
+
+Automatización del análisis bioinformático: Implementé scripts en R y Bash para procesar más de 500 muestras, incluyendo control de calidad, ensamblado, asignación taxonómica y análisis estadístico, garantizando reproducibilidad y eficiencia.
+
+Visualización de datos complejos: Utilicé ggplot2 para crear gráficos de diversidad alfa y beta, análisis de componentes principales (PCA) y representaciones de abundancia relativa, facilitando la interpretación de los cambios en la microbiota.
+
+Análisis de resiliencia microbiana: Evalué la capacidad de recuperación de la microbiota tras cada tratamiento antibiótico, identificando taxones bacterianos clave que mostraron patrones de resistencia y resiliencia.
+
+Predicción funcional: Apliqué herramientas de inferencia funcional para anticipar cambios en las rutas metabólicas bacterianas asociadas a los tratamientos, proporcionando una visión más profunda del impacto funcional de los antibióticos.
+
+Lo que aprendí:
+
+Estandarización de flujos de trabajo: Desarrollé un pipeline robusto que puede adaptarse a diferentes estudios metagenómicos, mejorando la eficiencia y la reproducibilidad.
+
+Automatización en bioinformática: Integré herramientas de línea de comandos y scripts en R para automatizar procesos complejos, reduciendo errores manuales y acelerando el análisis.
+
+Visualización profesional de datos: Perfeccioné mis habilidades en ggplot2 para generar visualizaciones claras y efectivas, esenciales para comunicar hallazgos científicos.
+
+Colaboración interdisciplinaria: Trabajé en un equipo multidisciplinario, coordinando con microbiólogos, bioinformáticos y estadísticos, lo que enriqueció mi perspectiva y habilidades de comunicación científica.
 
 ---
+
+![image](https://github.com/user-attachments/assets/d2e0ac86-56e5-4593-8f4b-4e4f84534f14)
 
 ## 🛠️ Habilidades técnicas
 
