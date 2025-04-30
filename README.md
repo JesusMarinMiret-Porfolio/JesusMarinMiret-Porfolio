@@ -31,13 +31,14 @@ Este proyecto consiste en un análisis exploratorio (EDA) de un dataset de venta
 - Ranking de productos por volumen de ventas.
 - Análisis por región.
 - Evaluación del impacto de los descuentos en el margen de beneficio.
-- 
+ 
 ![image](https://github.com/user-attachments/assets/6a40bee9-0b69-465e-836d-685d7554038d)
 
 **📈 Lo que aprendí:**
 - Aplicación completa del proceso EDA en un entorno de negocio simulado.
 - Visualización efectiva de KPIs mediante gráficos claros y comparativos.
-- Identificación de insights accionables útiles para marketing o estrategia comercial. 
+- Identificación de insights accionables útiles para marketing o estrategia comercial.
+
 📁 *[Ver notebook aquí](https://github.com/JesusMarinMiret-Porfolio/JesusMarinMiret-Porfolio/blob/main/retail-sales-analysis/notebooks/retail_sales_analysis.ipynb)*
 
 ---
@@ -50,33 +51,33 @@ Este proyecto consiste en un análisis exploratorio (EDA) de un dataset de venta
 
 ---
 
-4. Microbiome Data Automation
-Herramientas: R, Bash, ggplot2, DADA2, phyloseq, vegan
+## 4. Microbiome Data Automation
+**Herramientas**: R, Bash, ggplot2, DADA2, phyloseq, vegan
 
-Descripción:
+**Descripción:**
 Desarrollé un pipeline automatizado y reproducible para el análisis de datos metagenómicos 16S rRNA, aplicado al estudio de la microbiota intestinal de la cucaracha Blattella germanica sometida a tres pulsos periódicos del antibiótico kanamicina. Este trabajo formó parte de mi tesis doctoral y culminó en la publicación del artículo:
 📄 Adaptability of the gut microbiota of the German cockroach Blattella germanica to a periodic antibiotic treatment
 🔗 DOI: 10.1016/j.micres.2024.127863
 
-Contribuciones clave:
+**Contribuciones clave:**
 
-Automatización del análisis bioinformático: Implementé scripts en R y Bash para procesar más de 500 muestras, incluyendo control de calidad, ensamblado, asignación taxonómica y análisis estadístico, garantizando reproducibilidad y eficiencia.
+- Automatización del análisis bioinformático: Implementé scripts en R y Bash para procesar más de 500 muestras, incluyendo control de calidad, ensamblado, asignación taxonómica y análisis estadístico, garantizando reproducibilidad y eficiencia.
 
-Visualización de datos complejos: Utilicé ggplot2 para crear gráficos de diversidad alfa y beta, análisis de componentes principales (PCA) y representaciones de abundancia relativa, facilitando la interpretación de los cambios en la microbiota.
+- Visualización de datos complejos: Utilicé ggplot2 para crear gráficos de diversidad alfa y beta, análisis de componentes principales (PCA) y representaciones de abundancia relativa, facilitando la interpretación de los cambios en la microbiota.
 
-Análisis de resiliencia microbiana: Evalué la capacidad de recuperación de la microbiota tras cada tratamiento antibiótico, identificando taxones bacterianos clave que mostraron patrones de resistencia y resiliencia.
+- Análisis de resiliencia microbiana: Evalué la capacidad de recuperación de la microbiota tras cada tratamiento antibiótico, identificando taxones bacterianos clave que mostraron patrones de resistencia y resiliencia.
 
-Predicción funcional: Apliqué herramientas de inferencia funcional para anticipar cambios en las rutas metabólicas bacterianas asociadas a los tratamientos, proporcionando una visión más profunda del impacto funcional de los antibióticos.
+- Predicción funcional: Apliqué herramientas de inferencia funcional para anticipar cambios en las rutas metabólicas bacterianas asociadas a los tratamientos, proporcionando una visión más profunda del impacto funcional de los antibióticos.
 
-Lo que aprendí:
+**📈 Lo que aprendí:**
 
-Estandarización de flujos de trabajo: Desarrollé un pipeline robusto que puede adaptarse a diferentes estudios metagenómicos, mejorando la eficiencia y la reproducibilidad.
+- Estandarización de flujos de trabajo: Desarrollé un pipeline robusto que puede adaptarse a diferentes estudios metagenómicos, mejorando la eficiencia y la reproducibilidad.
 
-Automatización en bioinformática: Integré herramientas de línea de comandos y scripts en R para automatizar procesos complejos, reduciendo errores manuales y acelerando el análisis.
+- Automatización en bioinformática: Integré herramientas de línea de comandos y scripts en R para automatizar procesos complejos, reduciendo errores manuales y acelerando el análisis.
 
-Visualización profesional de datos: Perfeccioné mis habilidades en ggplot2 para generar visualizaciones claras y efectivas, esenciales para comunicar hallazgos científicos.
+- Visualización profesional de datos: Perfeccioné mis habilidades en ggplot2 para generar visualizaciones claras y efectivas, esenciales para comunicar hallazgos científicos.
 
-Colaboración interdisciplinaria: Trabajé en un equipo multidisciplinario, coordinando con microbiólogos, bioinformáticos y estadísticos, lo que enriqueció mi perspectiva y habilidades de comunicación científica.
+- Colaboración interdisciplinaria: Trabajé en un equipo multidisciplinario, coordinando con microbiólogos, bioinformáticos y estadísticos, lo que enriqueció mi perspectiva y habilidades de comunicación científica.
 
 ---
 
@@ -84,7 +85,7 @@ Colaboración interdisciplinaria: Trabajé en un equipo multidisciplinario, coor
 
 ## 🛠️ Habilidades técnicas
 
-- Lenguajes: **R, Python, SQL, Bash**
+- Lenguajes: **R, Python, SQL, Bash, DAX**
 - Visualización: **Power BI, ggplot2, Matplotlib, Seaborn**
 - Herramientas: **Git, Docker, Linux, Jupyter, Power Query**
 - Análisis: **EDA, KPIs, Automatización, Estadística**
