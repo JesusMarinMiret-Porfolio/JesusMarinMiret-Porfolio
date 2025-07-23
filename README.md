@@ -84,6 +84,38 @@ Desarrollé un pipeline automatizado y reproducible para el análisis de datos m
 
 ---
 
+## 4. Traveler Insights with SQL  
+**Herramientas**: SQL Server, Microsoft SSMS, modelo estrella, limpieza de datos, funciones de agregación  
+
+**Descripción:**  
+Diseñé y ejecuté un análisis completo sobre datos de hábitos de viaje a partir de un conjunto de datos realista descargado desde Kaggle. El proyecto abarcó la limpieza avanzada de los datos originales, la transformación de columnas problemáticas (como fechas y costes en diferentes formatos) y el diseño de un modelo dimensional (estrella) para facilitar el análisis de KPIs relevantes en el sector turístico.  
+
+**Contribuciones clave:**  
+
+- **Limpieza y normalización de datos**: Traté inconsistencias en campos numéricos como `Accomodation_cost` (mezcla de símbolos `$`, "USD") y homogeneicé formatos de fecha. Separé correctamente campos combinados como `Destination` en `City` y `Country`, incluso cuando los datos eran incompletos o ambiguos.
+
+- **Modelo estrella**: Construí una base de datos con una tabla de hechos (`Trips`) y varias dimensiones (`Traveler`, `Date`, `Destination`, `Spending`) que permitiera análisis estructurado y reproducible a través de consultas OLAP.
+
+- **Análisis exploratorio mediante SQL**: Calculé KPIs clave como el gasto medio por edad, duración media del viaje y destinos más populares, utilizando funciones como `AVG()`, `DATEDIFF()`, `GROUP BY`, y CTEs para consultas más complejas.
+
+- **Visualización e interpretación**: Extraje conclusiones claras del comportamiento del viajero por grupos de edad, tipo de destino y estacionalidad, y preparé capturas visuales para representar los resultados, pensadas para un público técnico o de negocio.
+
+**📈 Lo que aprendí:**  
+
+- **Modelado de datos relacional**: Profundicé en el diseño de esquemas de bases de datos adaptados a casos reales, entendiendo la importancia de la separación entre hechos y dimensiones.
+
+- **Transformación de datos complejos**: Desarrollé lógica SQL para normalizar y transformar columnas inconsistentes, y apliqué buenas prácticas de limpieza reproducible.
+
+- **Consultas analíticas en SQL**: Mejoré mis habilidades para construir consultas complejas orientadas a negocio, interpretando resultados y vinculándolos con contextos reales del sector travel.
+
+- **Documentación y presentación de proyectos**: Elaboré un README técnico para explicar el flujo de trabajo del proyecto, buenas prácticas aplicadas y resultados obtenidos, facilitando su evaluación como parte de mi portfolio profesional.
+
+---
+
+![image]<img width="959" height="710" alt="Modelo_Estrella" src="https://github.com/user-attachments/assets/45e02133-d5fc-440c-8c0e-23354764e8c5" />
+
+
+
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesus-marin-miret/)
