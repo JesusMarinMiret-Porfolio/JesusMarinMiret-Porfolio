@@ -112,7 +112,7 @@ Diseñé y ejecuté un análisis completo sobre datos de hábitos de viaje a par
 
 ---
 
-![image]<img width="959" height="710" alt="Modelo_Estrella" src="https://github.com/user-attachments/assets/45e02133-d5fc-440c-8c0e-23354764e8c5" />
+<img width="959" height="710" alt="Modelo_Estrella" src="https://github.com/user-attachments/assets/45e02133-d5fc-440c-8c0e-23354764e8c5" />
 
 
 
