@@ -96,7 +96,7 @@ Diseñé y ejecuté un análisis completo sobre datos de hábitos de viaje a par
 
 - **Modelo estrella**: Construí una base de datos con una tabla de hechos (`Trips`) y varias dimensiones (`Traveler`, `Date`, `Destination`, `Spending`) que permitiera análisis estructurado y reproducible a través de consultas OLAP.
 
-- **Análisis exploratorio mediante SQL**: Calculé KPIs clave como el gasto medio por edad, duración media del viaje y destinos más populares, utilizando funciones como `AVG()`, `DATEDIFF()`, `GROUP BY`, y CTEs para consultas más complejas.
+- **Análisis exploratorio mediante SQL**: Calculé KPIs clave como el gasto medio por edad, duración media del viaje y destinos más populares, utilizando funciones como `AVG()`, `DATEDIFF()`, `GROUP BY`.
 
 - **Visualización e interpretación**: Extraje conclusiones claras del comportamiento del viajero por grupos de edad, tipo de destino y estacionalidad, y preparé capturas visuales para representar los resultados, pensadas para un público técnico o de negocio.
 
